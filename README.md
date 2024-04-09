@@ -1,6 +1,7 @@
 # Skin Cancer (Melanoma) Detection System
 
 This repository contains the code and resources for the development of a Skin Cancer (Melanoma) Detection System using Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs). 
+
 This project was undertaken as part of the Deep Learning course at La Sapienza for the academic year 2022/2023.
 
 ## Overview
