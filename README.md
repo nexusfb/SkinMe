@@ -1,7 +1,5 @@
 # SkinMe_DL_Project
 
-**Copyright © 2023 Alessio Borgi**
-
 **PROJECT SCOPE**: Development of a Skin Cancer (Melanoma) Detection System using CNNs and LSTMs.
 
 **PROJECT RESULTS**:
