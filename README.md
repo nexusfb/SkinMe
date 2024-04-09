@@ -1,13 +1,13 @@
-# SkinMe_DL_Project
+# Skin Cancer (Melanoma) Detection System
 
-**PROJECT SCOPE**: Development of a Skin Cancer (Melanoma) Detection System using CNNs and LSTMs.
+This repository contains the code and resources for the development of a Skin Cancer (Melanoma) Detection System using Convolutional Neural Networks (CNNs) and Long Short-Term Memory networks (LSTMs). This project was undertaken as part of the Deep Learning course at La Sapienza for the academic year 2022/2023.
 
-**PROJECT RESULTS**:
-- Dataset Balancing using Oversampling for contrasting the High-Imbalance of the Dataset.
-- CNN Model Development to detect Melanoma.
-- LSTM Model Development to detect Melanoma.
-- CNN and LSTM Comparison.
+## Overview
 
-**PROJECT REPOSITORY**: https://github.com/alessioborgi/SkinMe_DL_Project
+Skin cancer, particularly melanoma, is a significant health concern worldwide. Early detection is crucial for effective treatment. This project aims to build a robust detection system utilizing advanced deep learning techniques.
 
-**Credit & Attributions:** Dataset [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) **HAM10000** (i.e., "Human Against Machine with 10000 training images").
+## Features
+
+- Utilizes CNNs for image feature extraction and classification.
+- Incorporates LSTMs for sequential data analysis, enhancing prediction accuracy.
+- Provides a comprehensive approach to skin cancer detection leveraging state-of-the-art deep learning methodologies.
